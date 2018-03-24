@@ -3,7 +3,7 @@
 - [https://github.com/srumyantsev/fastfinances](https://github.com/srumyantsev/fastfinances "https://github.com/srumyantsev/fastfinances") - FastFinances
 
 # Checklists
-- [project-marketing.md](project-marketing.md "project-marketing.md") - Project marketing
+- [project-marketing](project-marketing "Project-marketing")
 
 # Tools
 - [https://pandao.github.io/editor.md/examples/task-lists.html](https://pandao.github.io/editor.md/examples/task-lists.html "https://pandao.github.io/editor.md/examples/task-lists.html") - Editor.md is WYSIWYG Markdown JS editor
