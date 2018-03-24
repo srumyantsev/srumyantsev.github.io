@@ -6,7 +6,7 @@
 - robots.txt
 - Sitemap.xml
 - Contacts page contains Yandex Map or Google map
-- Each page contains Title, meta tags, mate description
+- Each page contains Title, meta "tags", meta "description"
 
 # Periodic
 - Review reports in Yandex Metrika
