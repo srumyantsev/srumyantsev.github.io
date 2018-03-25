@@ -13,4 +13,7 @@
 - Review analitics at [https://www.cy-pr.com/](https://www.cy-pr.com/ "https://www.cy-pr.com/") 
 
 ## Links
-* [https://www.sideprojectchecklist.com/marketing-checklist/](https://www.sideprojectchecklist.com/marketing-checklist/)
+- [https://www.sideprojectchecklist.com/marketing-checklist/](https://www.sideprojectchecklist.com/marketing-checklist/)
+- [https://www.inturact.com/blog/7-saas-marketing-metrics-you-need-to-measure](https://www.inturact.com/blog/7-saas-marketing-metrics-you-need-to-measure)
+- [https://habrahabr.ru/company/yagla/blog/294178/](https://habrahabr.ru/company/yagla/blog/294178/)
+- [http://rudni4ok.blogspot.ru/2016/01/voronka-prodazh.html](http://rudni4ok.blogspot.ru/2016/01/voronka-prodazh.html)
