@@ -1,4 +1,4 @@
-# Onetime
+## Onetime
 - Yandex Metrika
 - Social links (vk.com, facebook.com, youtube.com, twitter.com, etc.)
 - Registered in Yandex Webmaster [https://webmaster.yandex.ru/sites/add/](https://webmaster.yandex.ru/sites/add/ "https://webmaster.yandex.ru/sites/add/")
@@ -8,9 +8,9 @@
 - Contacts page contains Yandex Map or Google map
 - Each page contains Title, meta "tags", meta "description"
 
-# Periodic
+## Periodic
 - Review reports in Yandex Metrika
 - Review analitics at [https://www.cy-pr.com/](https://www.cy-pr.com/ "https://www.cy-pr.com/") 
 
 Links:
-* https://www.sideprojectchecklist.com/marketing-checklist/
+* [https://www.sideprojectchecklist.com/marketing-checklist/](https://www.sideprojectchecklist.com/marketing-checklist/)
