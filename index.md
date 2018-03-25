@@ -4,6 +4,7 @@
 
 # Checklists
 - [Project marketing](project-marketing)
+- [Project development](project-development)
 
 # Tools
 - [https://pandao.github.io/editor.md/examples/task-lists.html](https://pandao.github.io/editor.md/examples/task-lists.html) - Editor.md is WYSIWYG Markdown JS editor
