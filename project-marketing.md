@@ -17,3 +17,4 @@
 - [https://www.inturact.com/blog/7-saas-marketing-metrics-you-need-to-measure](https://www.inturact.com/blog/7-saas-marketing-metrics-you-need-to-measure)
 - [https://habrahabr.ru/company/yagla/blog/294178/](https://habrahabr.ru/company/yagla/blog/294178/)
 - [http://rudni4ok.blogspot.ru/2016/01/voronka-prodazh.html](http://rudni4ok.blogspot.ru/2016/01/voronka-prodazh.html)
+- [https://www.forentrepreneurs.com/saas-metrics-2/](https://www.forentrepreneurs.com/saas-metrics-2/)
