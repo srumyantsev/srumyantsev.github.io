@@ -19,7 +19,7 @@
 - **Open API + Swagger CodeGen** - Generate Api specification based on Open API specification. Generate code based on specification. For example generate protocol based on Web API and generate TypeScript/JavaScript client code based on protocol.
   - **[https://www.openapis.org/](https://www.openapis.org/)**
   - **[https://swagger.io/swagger-codegen/](https://swagger.io/swagger-codegen/)**
-  - **[https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8](https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8)
+  - **[https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8](https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8)**
 - **[Code contracts](https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/code-contracts)**
 
 ## Guidelines
