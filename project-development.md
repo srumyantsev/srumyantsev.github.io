@@ -20,12 +20,27 @@
   - **[https://www.openapis.org/](https://www.openapis.org/)**
   - **[https://swagger.io/swagger-codegen/](https://swagger.io/swagger-codegen/)**
   - **[https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8](https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8)**
-- **[Code contracts](https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/code-contracts)**
+- **[Code contracts](https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/code-contracts)** Additional info [http://deviq.com/guard-clause/](http://deviq.com/guard-clause/)
 
 ## Guidelines
 - **Abstract DateTime** - implement DateTimeProvider for better testing
 - **New is glue** - [https://ardalis.com/new-is-glue](https://ardalis.com/new-is-glue)
 - **Do not use static methods and properties** - [http://deviq.com/static-cling/](http://deviq.com/static-cling/)
+- **[Designing with interfaces](https://www.javaworld.com/article/2076841/core-java/designing-with-interfaces.amp.html)**
 
 ## Solution and projects structure
-[Architecting Modern Web Applications with ASP.NET Core and Azure eBook](https://aka.ms/webappebook) + [Sample ASP.NET Core reference application](https://github.com/dotnet-architecture/eShopOnWeb)
+- [Architecting Modern Web Applications with ASP.NET Core and Azure eBook](https://aka.ms/webappebook) + [Sample ASP.NET Core reference application](https://github.com/dotnet-architecture/eShopOnWeb)
+- **Use namespaces over projects**
+  - [https://lostechies.com/chadmyers/2008/07/16/project-anti-pattern-many-projects-in-a-visual-studio-solution-file/](https://lostechies.com/chadmyers/2008/07/16/project-anti-pattern-many-projects-in-a-visual-studio-solution-file/)
+  - [https://codurance.com/2015/03/23/multiple-projects-in-visual-studio/](https://codurance.com/2015/03/23/multiple-projects-in-visual-studio/)
+  - [https://ayende.com/blog/3158/the-two-project-solution](https://ayende.com/blog/3158/the-two-project-solution)
+  - [http://geekswithblogs.net/FrostRed/archive/2008/10/03/125628.aspx](http://geekswithblogs.net/FrostRed/archive/2008/10/03/125628.aspx)
+  - [http://codebetter.com/jeremymiller/2008/09/30/separate-assemblies-loose-coupling/](http://codebetter.com/jeremymiller/2008/09/30/separate-assemblies-loose-coupling/)
+  - [http://www.hanselman.com/blog/AssemblyFiefdomsWhatsTheRightNumberOfAssembliesLibraries.aspx](http://www.hanselman.com/blog/AssemblyFiefdomsWhatsTheRightNumberOfAssembliesLibraries.aspx)
+  - [https://msdn.microsoft.com/en-us/library/ee658109.aspx](https://msdn.microsoft.com/en-us/library/ee658109.aspx)
+  
+## Patterns
+- **[Repository + Unit of Work + Specification](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)**
+  - **[Specification pattern](http://deviq.com/specification-pattern/)**
+  - **[Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)**
+
