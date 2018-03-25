@@ -21,6 +21,7 @@
   - [https://swagger.io/swagger-codegen/](https://swagger.io/swagger-codegen/)
   - [https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8](https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8)
 - **[Code contracts](https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/code-contracts)** - Additional info [http://deviq.com/guard-clause/](http://deviq.com/guard-clause/)
+- **Code interception. AOP** - [https://msdn.microsoft.com/en-us/library/dn178466(v=pandp.30).aspx](https://msdn.microsoft.com/en-us/library/dn178466(v=pandp.30).aspx)
 
 ## Guidelines
 - **Abstract DateTime** - implement DateTimeProvider for better testing
