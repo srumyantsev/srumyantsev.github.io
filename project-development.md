@@ -23,6 +23,10 @@
   - [https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8](https://medium.com/slack-developer-blog/standard-practice-slack-web-openapi-spec-daaad18c7f8)
 - **[Code contracts](https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/code-contracts)** - Additional info [http://deviq.com/guard-clause/](http://deviq.com/guard-clause/)
 - **Code interception. AOP** - [https://msdn.microsoft.com/en-us/library/dn178466(v=pandp.30).aspx](https://msdn.microsoft.com/en-us/library/dn178466(v=pandp.30).aspx)
+- **Parsing** - Implement parser for complex cases instead of regex usage.
+  - [https://tomassetti.me/guide-parsing-algorithms-terminology/](https://tomassetti.me/guide-parsing-algorithms-terminology/)
+  - [https://tomassetti.me/antlr-mega-tutorial/](https://tomassetti.me/antlr-mega-tutorial/)
+  - [https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687210/Quick+Starter+on+Parser+Grammars+-+No+Past+Experience+Required](https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687210/Quick+Starter+on+Parser+Grammars+-+No+Past+Experience+Required)
 
 ## Guidelines
 - **Abstract DateTime** - implement DateTimeProvider for better testing
@@ -33,6 +37,7 @@
 - **Reduce code nesting** - [https://refactoring.guru/replace-nested-conditional-with-guard-clauses](https://refactoring.guru/replace-nested-conditional-with-guard-clauses)
 - **С# immutable parameters** - Do not change parameters inside method body. Functional programming.
 - **Code cyclomatic complexity**
+- **Return empty collection instead of null** - https://stackoverflow.com/a/1970001
 
 ## Solution and projects structure
 - [Architecting Modern Web Applications with ASP.NET Core and Azure eBook](https://aka.ms/webappebook) + [Sample ASP.NET Core reference application](https://github.com/dotnet-architecture/eShopOnWeb)
