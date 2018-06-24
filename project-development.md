@@ -1,5 +1,7 @@
 ## Requirements
 - Combinations of all possible cases. [Parwise testing](http://www.pairwise.org/)
+- Method "How we implement this if we start from begging". Sometimes already implemented bad code pushing us continue implementing with some bad design decisions. It's very helpful to design requirements and not to be fixed by previously implemented requirements.
+- Method "Change original requirements". Sometimes we are in dead end, because some task requirements are pushing us there. One of possible solutions is to review original requirements and change them.
 
 ## Libraries
 - [Awesome dotnet](https://github.com/quozd/awesome-dotnet) - List of most popular libraries
