@@ -1,6 +1,6 @@
 ## Requirements
 - Combinations of all possible cases. [Parwise testing](http://www.pairwise.org/)
-- Method "How we implement this if we start from begging". Sometimes already implemented bad code pushing us continue implementing with some bad design decisions. It's very helpful to design requirements and not to be fixed by previously implemented requirements.
+- Method "How could we implement this if we started from beginning". Sometimes already implemented bad code pushing us continue implementing with some bad design decisions. It's very helpful to design requirements and not to be fixed by previously implemented requirements.
 - Method "Change original requirements". Sometimes we are in dead end, because some task requirements are pushing us there. One of possible solutions is to review original requirements and change them.
 
 ## Libraries
@@ -39,7 +39,12 @@
 - **Reduce code nesting** - [https://refactoring.guru/replace-nested-conditional-with-guard-clauses](https://refactoring.guru/replace-nested-conditional-with-guard-clauses)
 - **С# immutable parameters** - Do not change parameters inside method body. Functional programming.
 - **Code cyclomatic complexity**
-- **Return empty collection instead of null** - https://stackoverflow.com/a/1970001
+- **Return empty collection instead of null** - (https://stackoverflow.com/a/1970001)
+- **Find code examples in big projects at github**
+- **Classes naming**
+  - [Names of Generic Type Parameters](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces#names-of-common-types)
+  - [Naming Classes - How to avoid calling everything a “<WhatEver>Manager”?](https://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager)
+  - [Often used class name suffixes](http://lukagabric.com/often-used-class-name-suffixes/)
 
 ## Solution and projects structure
 - [Architecting Modern Web Applications with ASP.NET Core and Azure eBook](https://aka.ms/webappebook) + [Sample ASP.NET Core reference application](https://github.com/dotnet-architecture/eShopOnWeb)
