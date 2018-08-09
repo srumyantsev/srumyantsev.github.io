@@ -29,6 +29,9 @@
   - [https://tomassetti.me/guide-parsing-algorithms-terminology/](https://tomassetti.me/guide-parsing-algorithms-terminology/)
   - [https://tomassetti.me/antlr-mega-tutorial/](https://tomassetti.me/antlr-mega-tutorial/)
   - [https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687210/Quick+Starter+on+Parser+Grammars+-+No+Past+Experience+Required](https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687210/Quick+Starter+on+Parser+Grammars+-+No+Past+Experience+Required)
+- **Share assembly version across projects**. Store assebly info in common file.
+  - Dot Net Core. [https://stackoverflow.com/a/42183749](https://stackoverflow.com/a/42183749)
+  - Net Framework. [https://stackoverflow.com/a/62637](https://stackoverflow.com/a/62637) GlobalAssemblyInfo.cs
 
 ## Guidelines
 - **Abstract DateTime** - implement DateTimeProvider for better testing
