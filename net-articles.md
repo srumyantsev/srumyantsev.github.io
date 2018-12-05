@@ -1,3 +1,8 @@
+## Data structures
+- TBD
+- (FAQ) [Selecting a Collection Class](https://docs.microsoft.com/en-us/dotnet/standard/collections/selecting-a-collection-class)
+- (FAQ) [Collections and Data Structures](https://docs.microsoft.com/en-us/dotnet/standard/collections/)
+
 ## Multi-threading
 ### General
 - (Video) [Multi-threaded Programming in .NET from the ground up](https://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DEV402)
@@ -20,3 +25,11 @@
 
 ### Synchronization context
 - (Article) [ASP.NET Core SynchronizationContext](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
+
+## Expression trees
+- (Article) [https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
+
+## Frameworks
+- (Issue) [Can we get a life cycle poster, like for Asp.NET web api 2 or asp.net mvc?](https://github.com/aspnet/Docs/issues/3524)
+- (Poster) [ASP.NET WEB API 2: HTTP MESSAGE LIFECYLE](https://www.asp.net/media/4071077/aspnet-web-api-poster.pdf)
+- (Poster) [Lifecycle of an ASP.NET MVC 5 Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application)
