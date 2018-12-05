@@ -7,7 +7,7 @@
 - [Project development](project-development)
 
 # Study
-- [.Net articles 2](net-articles)
+- [.Net articles](net-articles)
 
 # Tools
 - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
