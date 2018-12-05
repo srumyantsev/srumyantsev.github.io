@@ -6,6 +6,9 @@
 - [Project marketing](project-marketing)
 - [Project development](project-development)
 
+# Study
+- [.Net articles](net articles)
+
 # Tools
 - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 - [https://pandao.github.io/editor.md/examples/task-lists.html](https://pandao.github.io/editor.md/examples/task-lists.html) - Editor.md is WYSIWYG Markdown JS editor
