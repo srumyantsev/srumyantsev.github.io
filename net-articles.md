@@ -33,3 +33,6 @@
 - (Issue) [Can we get a life cycle poster, like for Asp.NET web api 2 or asp.net mvc?](https://github.com/aspnet/Docs/issues/3524)
 - (Poster) [ASP.NET WEB API 2: HTTP MESSAGE LIFECYLE](https://www.asp.net/media/4071077/aspnet-web-api-poster.pdf)
 - (Poster) [Lifecycle of an ASP.NET MVC 5 Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application)
+
+## Algorithms
+- (Stackoverflow) [What does O(log n) mean exactly?](https://stackoverflow.com/a/2307314)
