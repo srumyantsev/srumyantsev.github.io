@@ -1,17 +1,20 @@
-## Data structures
+# General
+[DotNext conferences YouTube channel](https://www.youtube.com/channel/UCNPwMPudMEw-gnAT4zh_UZg)
+
+# Data structures
 - TBD
 - (FAQ) [Selecting a Collection Class](https://docs.microsoft.com/en-us/dotnet/standard/collections/selecting-a-collection-class)
 - (FAQ) [Collections and Data Structures](https://docs.microsoft.com/en-us/dotnet/standard/collections/)
 
-## Multi-threading
-### General
+# Multi-threading
+## General
 - (Video) [Multi-threaded Programming in .NET from the ground up](https://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DEV402)
 - (Article series) [Threading in C#. Joseph Albahari](http://www.albahari.com/threading/)
 
-### Tasks
+## Tasks
 - (Article) [Task-based Asynchronous Pattern (TAP)](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
 
-### Async/Await
+## Async/Await
 - (FAQ) [Parallel Programming with .NET](https://blogs.msdn.microsoft.com/pfxteam/2012/04/12/asyncawait-faq/)
 - (Article) [Part "06. Async and await." from "Disassembling And Decompiling .NET Assemblies"](http://volkanpaksoy.com/archive/2015/07/22/disassembling-and-decompiling-dotnet-assemblies/)
 - (Video) [Stephen Toub: Task-Based Asynchrony with Async](https://channel9.msdn.com/Shows/Going+Deep/Stephen-Toub-Task-Based-Asynchrony-with-Async)
@@ -20,24 +23,24 @@
 - (Article) [Async and Await. Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html)
 - (Article) [Implicit Async Context ("AsyncLocal")](https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
 
-### Data structures
+## Data structures
 - (Video) [Дмитрий Иванов — Многопоточные структуры данных в .NET: как это работает?](https://youtu.be/fQhz2iHmwV8)
 
-### Synchronization context
+## Synchronization context
 - (Article) [ASP.NET Core SynchronizationContext](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 
-## Expression trees
+# Expression trees
 - (Article) [https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
 
-## Frameworks
+# Frameworks
 - (Issue) [Can we get a life cycle poster, like for Asp.NET web api 2 or asp.net mvc?](https://github.com/aspnet/Docs/issues/3524)
 - (Poster) [ASP.NET WEB API 2: HTTP MESSAGE LIFECYLE](https://www.asp.net/media/4071077/aspnet-web-api-poster.pdf)
 - (Poster) [Lifecycle of an ASP.NET MVC 5 Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/lifecycle-of-an-aspnet-mvc-5-application)
 
-## Algorithms
+# Algorithms
 - (Stackoverflow) [What does O(log n) mean exactly?](https://stackoverflow.com/a/2307314)
 
-## MsBuild
+# MsBuild
 - (Article) [Bundling .NET build tools in NuGet](https://natemcmaster.com/blog/2017/11/11/build-tools-in-nuget/)
 - (Article) [Shipping a cross-platform MSBuild task in a NuGet package](https://natemcmaster.com/blog/2017/07/05/msbuild-task-in-nuget/)
 - (Article) [Task writing](https://docs.microsoft.com/en-us/visualstudio/msbuild/task-writing)
