@@ -1,5 +1,6 @@
 # Kanban
-- (Video) - [Алексей Пименов. Kanban - это не то, что вы привыкли о нем думать](https://www.youtube.com/watch?v=lrDLbp0XeFA)
+- (Video) [Agile Project Management with Kanban: Eric Brechner Presentation](https://youtu.be/CKWvmiY7f_g)
+- (Video) [Алексей Пименов. Kanban - это не то, что вы привыкли о нем думать](https://www.youtube.com/watch?v=lrDLbp0XeFA)
 - (YouTube channel) [Lean Kanban organisation YouTube channel](https://www.youtube.com/channel/UCszlnzAwInQwOVCACJ6TEAg)
 
 # TeamLead
