@@ -14,8 +14,8 @@
 - [.Net articles](net-articles)
 
 # Software (tools)
-- [General](software-general)
-- [For software development](software-development)
+- [General](tools-general)
+- [For software development](tools-development)
 
 # Tips
 - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
