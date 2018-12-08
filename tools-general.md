@@ -7,3 +7,10 @@
 
 # Fast digital drawing
 - [If you have a tablet/phone device, you can draw on your PC with VirtualTable](https://play.google.com/store/apps/details?id=com.sunnysidesoft.VirtualTablet.lite&hl=en)
+
+# Notes
+- [Evernote](https://evernote.com)
+
+# Todo list
+- [Todoist](https://todoist.com)
+
