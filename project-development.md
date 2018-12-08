@@ -37,16 +37,16 @@
 - **Abstract DateTime** - implement DateTimeProvider for better testing
 - **New is glue** - [https://ardalis.com/new-is-glue](https://ardalis.com/new-is-glue)
 - **Do not use static methods and properties** - [http://deviq.com/static-cling/](http://deviq.com/static-cling/)
-- **Designing with interfaces** - [(https://www.javaworld.com/article/2076841/core-java/designing-with-interfaces.amp.html](https://www.javaworld.com/article/2076841/core-java/designing-with-interfaces.amp.html)**
+- **Designing with interfaces** - [https://www.javaworld.com/article/2076841/core-java/designing-with-interfaces.amp.html](https://www.javaworld.com/article/2076841/core-java/designing-with-interfaces.amp.html)
 - **Code control flow**
 - **Reduce code nesting** - [https://refactoring.guru/replace-nested-conditional-with-guard-clauses](https://refactoring.guru/replace-nested-conditional-with-guard-clauses)
 - **С# immutable parameters** - Do not change parameters inside method body. Functional programming.
 - **Code cyclomatic complexity**
-- **Return empty collection instead of null** - (https://stackoverflow.com/a/1970001)
+- **Return empty collection instead of null** - [https://stackoverflow.com/a/1970001](https://stackoverflow.com/a/1970001)
 - **Find code examples in big projects at github**
 - **Classes naming**
   - [Names of Generic Type Parameters](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-classes-structs-and-interfaces#names-of-common-types)
-  - [Naming Classes - How to avoid calling everything a “<WhatEver>Manager”?](https://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager)
+  - [Naming Classes - How to avoid calling everything a \<WhatEver\>Manager?](https://stackoverflow.com/questions/1866794/naming-classes-how-to-avoid-calling-everything-a-whatevermanager)
   - [Often used class name suffixes](http://lukagabric.com/often-used-class-name-suffixes/)
 
 ## Solution and projects structure
