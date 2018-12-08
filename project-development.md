@@ -8,13 +8,11 @@
 - [Awesome dotnet core](https://github.com/thangchung/awesome-dotnet-core) - List of most popular libraries for Dot Net Core
 
 ## Technical features
-- **Code comments** - write comments for classes, methods, etc. Generate documentation.
-- **Code documentation** - write documentation (ex. README.MD files) about technical features "How log something", "How valdate data". Best practice is to reuse already implemented technical features, but without proper documentation it's hard to find out how some feature implemented. Write documentation with examples and link code implementation if possible. Describe used frameworks, libraries, patterns, etc.
 - **Logging** - Implement as simple as possible. Collect logs by using popular library like NLog, lo4net and others. Review logs periodically or send daily/week reports. Consider send email for unhandled exceptions.
 - **Validation** - each application has different types of validation. In ideal implementation validation in backend should be reused in frontend. Validation is one of the application's core functionalities. Define validation layer and reuse on all layers. Think about localisation of validation errors. Helpful questions: "How to display localised validation error at frontend for input field which returned by backend (backend has multiple layers and data containers can be different between layers (DTO, Entities, Business layer, Data layer, etc.)?"
 - **Localisation** - many applications requires two or more languages. One of the problematic areas is to implement localisation for multiple layers/tiers. For example application has two projects: Web API back end + SPA frontend. In ideal situation backend and frontend are using the same source of translations and current localisation is synchronized between them.
 - **Multi tenancy**
-- **Web API. REST API vs RPC** - Clean ans simple implementation of Web Api (doesn't related to Net framework) is't easy task. Choose between two types of APIs. There is a lot of buzz around REST API, but also there are a lot of popular services which have RPC based API. One of the biggest disadvantages of REST API that it bad fits actions (ex. "Generate report action", "Move item", "Copy item").
+- **Web API. REST API vs RPC** - Clean and simple implementation of Web Api (doesn't related to Net framework) is't easy task. Choose between two types of APIs. There is a lot of buzz around REST API, but also there are a lot of popular services which have RPC based API. One of the biggest disadvantages of REST API that it bad fits actions (ex. "Generate report action", "Move item", "Copy item").
   - [Understanding RPC Vs REST For HTTP APIs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
   - [Do you really know why you prefer REST over RPC?](https://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
   - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -32,6 +30,12 @@
 - **Share assembly version across projects**. Store assebly info in common file.
   - Dot Net Core. [https://stackoverflow.com/a/42183749](https://stackoverflow.com/a/42183749)
   - Net Framework. [https://stackoverflow.com/a/62637](https://stackoverflow.com/a/62637) GlobalAssemblyInfo.cs
+  
+## Code quality (code review)
+- **Code comments** - write comments for classes, methods, etc. Generate documentation.
+- **Code documentation** - write documentation (ex. README.MD files) about technical features "How log something", "How valdate data". Best practice is to reuse already implemented technical features, but without proper documentation it's hard to find out how some feature implemented. Write documentation with examples and link code implementation if possible. Describe used frameworks, libraries, patterns, etc.
+- **How code will be tested** - think how code will be tested this can help identify potential problems like calls static classes, dependencies created inside, etc.
+- **In which cases code won't work** - think which parameters, states, execution results, etc. are not properly covered by code. Most simple example that method doesn't check parameter for null before use it.
 
 ## Guidelines
 - **Abstract DateTime** - implement DateTimeProvider for better testing
