@@ -36,3 +36,8 @@
 
 ## Algorithms
 - (Stackoverflow) [What does O(log n) mean exactly?](https://stackoverflow.com/a/2307314)
+
+## MsBuild
+- (Article) [Bundling .NET build tools in NuGet](https://natemcmaster.com/blog/2017/11/11/build-tools-in-nuget/)
+- (Article) [Shipping a cross-platform MSBuild task in a NuGet package](https://natemcmaster.com/blog/2017/07/05/msbuild-task-in-nuget/)
+- (Article) [Task writing](https://docs.microsoft.com/en-us/visualstudio/msbuild/task-writing)
