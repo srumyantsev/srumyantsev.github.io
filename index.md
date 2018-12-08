@@ -6,6 +6,9 @@
 - [Project marketing](project-marketing)
 - [Project development](project-development)
 
+# Management
+- [Project management](project-management)
+
 # Study
 - [.Net articles](net-articles)
 
