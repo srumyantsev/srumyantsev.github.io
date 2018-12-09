@@ -69,3 +69,7 @@
   - [Specification pattern](http://deviq.com/specification-pattern/)
   - [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
 
+## Misc
+- [Write Git commits in Convetional commits style](https://www.conventionalcommits.org/en)
+- [Write changelog files in Keepchangelog style](https://keepachangelog.com/en)
+- [Set product/assemblies versions in Semantic versioning style](https://semver.org/)
