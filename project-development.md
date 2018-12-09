@@ -70,6 +70,8 @@
   - [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
 
 ## Misc
-- [Write Git commits in Convetional commits style](https://www.conventionalcommits.org/en)
+- Write good Git commits
+  - [Convetional commits style](https://www.conventionalcommits.org/en)
+  - [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503)
 - [Write changelog files in Keepchangelog style](https://keepachangelog.com/en)
 - [Set product/assemblies versions in Semantic versioning style](https://semver.org/)
