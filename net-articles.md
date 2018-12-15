@@ -11,10 +11,12 @@
 - (Video) [Multi-threaded Programming in .NET from the ground up](https://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DEV402)
 - (Article series) [Threading in C#. Joseph Albahari](http://www.albahari.com/threading/)
 - (Article) [Don't Block on Async Code](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
+- (Article) [Async in depth](https://docs.microsoft.com/en-us/dotnet/standard/async-in-depth)
 
 ## Tasks
 - (Article) [Task-based Asynchronous Pattern (TAP)](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
 - (Article) [Tasks are (still) not threads and async is not parallel](https://blogs.msdn.microsoft.com/benwilli/2015/09/10/tasks-are-still-not-threads-and-async-is-not-parallel/)
+- (Article) [Task.Run Etiquette and Proper Usage](https://blog.stephencleary.com/2013/10/taskrun-etiquette-and-proper-usage.html)
 
 ## Async/Await
 - (FAQ) [Parallel Programming with .NET](https://blogs.msdn.microsoft.com/pfxteam/2012/04/12/asyncawait-faq/)
