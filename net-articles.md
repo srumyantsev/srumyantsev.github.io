@@ -10,9 +10,11 @@
 ## General
 - (Video) [Multi-threaded Programming in .NET from the ground up](https://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/DEV402)
 - (Article series) [Threading in C#. Joseph Albahari](http://www.albahari.com/threading/)
+- (Article) [Don't Block on Async Code](https://blog.stephencleary.com/2012/07/dont-block-on-async-code.html)
 
 ## Tasks
 - (Article) [Task-based Asynchronous Pattern (TAP)](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
+- (Article) [Tasks are (still) not threads and async is not parallel](https://blogs.msdn.microsoft.com/benwilli/2015/09/10/tasks-are-still-not-threads-and-async-is-not-parallel/)
 
 ## Async/Await
 - (FAQ) [Parallel Programming with .NET](https://blogs.msdn.microsoft.com/pfxteam/2012/04/12/asyncawait-faq/)
@@ -28,6 +30,7 @@
 
 ## Synchronization context
 - (Article) [ASP.NET Core SynchronizationContext](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
+- (Article) [Await, SynchronizationContext, and Console Apps](https://blogs.msdn.microsoft.com/pfxteam/2012/01/20/await-synchronizationcontext-and-console-apps/)
 
 # Expression trees
 - (Article) [https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
