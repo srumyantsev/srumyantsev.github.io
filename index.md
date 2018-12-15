@@ -6,6 +6,7 @@
 - [Project marketing](project-marketing)
 - [Project development](project-development)
 - [CMS](cms)
+- [Vue.js](vuejs-articles)
 
 # Management
 - [Project management](project-management)
