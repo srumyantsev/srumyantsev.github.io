@@ -7,6 +7,7 @@
 - [Project development](project-development)
 - [CMS](cms)
 - [Vue.js](vuejs-articles)
+- [Git](git-articles)
 
 # Management
 - [Project management](project-management)
