@@ -1,3 +1,6 @@
+# If something went wrong
+* (FAQ) [Flight rules for Git](https://github.com/k88hudson/git-flight-rules/blob/master/README.md)
+
 # Tips
 * Difference between two and three dots in diff and log commands
   * [What are the differences between double-dot “..” and triple-dot “…” in Git commit ranges?](https://stackoverflow.com/questions/462974/what-are-the-differences-between-double-dot-and-triple-dot-in-git-com)
