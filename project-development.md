@@ -80,5 +80,5 @@
 ## Tips
 - Debug/Trace Network for Net app [How to: Configure Network Tracing](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/how-to-configure-network-tracing)
 - **Debug/Trace WCF for Full Framework**
- - [Configuring Tracing](https://docs.microsoft.com/en-us/dotnet/framework/wcf/diagnostics/tracing/configuring-tracing)
- - [Tracing and Message Logging](https://docs.microsoft.com/en-us/dotnet/framework/wcf/samples/tracing-and-message-logging)
+  - [Configuring Tracing](https://docs.microsoft.com/en-us/dotnet/framework/wcf/diagnostics/tracing/configuring-tracing)
+  - [Tracing and Message Logging](https://docs.microsoft.com/en-us/dotnet/framework/wcf/samples/tracing-and-message-logging)
