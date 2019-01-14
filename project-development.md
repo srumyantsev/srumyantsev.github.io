@@ -65,7 +65,7 @@
   - [https://msdn.microsoft.com/en-us/library/ee658109.aspx](https://msdn.microsoft.com/en-us/library/ee658109.aspx)
   
 ## Patterns
-- **[Repository + Unit of Work + Specification](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)**
+- [Repository + Unit of Work + Specification](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)
   - [Specification pattern](http://deviq.com/specification-pattern/)
   - [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
 - [Dependency injection. Aggregate services](https://autofaccn.readthedocs.io/en/latest/advanced/aggregate-services.html)
