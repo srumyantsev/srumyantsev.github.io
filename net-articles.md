@@ -3,8 +3,12 @@
 
 # Data structures
 - TBD
+- (Article) [Back to basics: Dictionary part 2, .NET implementation](https://blog.markvincze.com/back-to-basics-dictionary-part-2-net-implementation/)
 - (FAQ) [Selecting a Collection Class](https://docs.microsoft.com/en-us/dotnet/standard/collections/selecting-a-collection-class)
 - (FAQ) [Collections and Data Structures](https://docs.microsoft.com/en-us/dotnet/standard/collections/)
+
+## Value type vs Reference type
+- (Article) [The truth about value types](https://blogs.msdn.microsoft.com/ericlippert/2010/09/30/the-truth-about-value-types/)
 
 # Multi-threading
 ## General
