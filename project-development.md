@@ -79,6 +79,21 @@
 
 ## Debug
 - Debug/Trace Network for Net Core app [Debugging CoreFX on Windows](https://github.com/dotnet/corefx/blob/master/Documentation/debugging/windows-instructions.md#systemnet-namespaces)
+  - Explanation:
+    - Net Core use EventSource for events writing
+    - There is common NetEventSource used for Net related events [NetEventSource](https://github.com/dotnet/corefx/blob/master/src/Common/src/System/Net/Logging/NetEventSource.Common.cs)
+    - Particular name of NetEventSource configured inside particular assembly [NetEventSource.Http.cs](https://github.com/dotnet/corefx/blob/master/src/System.Net.Http/src/System/Net/Http/NetEventSource.Http.cs)
+  - Instruction:
+    - Download [PerfView.exe](https://github.com/Microsoft/perfview/blob/master/documentation/Downloading.md)
+    - Download files [Scripts](https://github.com/dotnet/corefx/tree/master/src/Common/tests/Scripts/Tools)
+    - Run CMD as Administrator
+    - Execute net_startlog.cmd
+    - Do some actions which send HTTP requests
+    - Execute net_stoplog.cmd
+    - net_000001.etl created
+    - From CMD (ran as Administrator) run "PerfView.exe /InMemoryCircularBuffer"
+    - PerfView open file net_000001.etl
+  
 - Debug/Trace Network for Full Framework app [How to: Configure Network Tracing](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/how-to-configure-network-tracing)
 - **Debug/Trace WCF for Full Framework**
   - [Configuring Tracing](https://docs.microsoft.com/en-us/dotnet/framework/wcf/diagnostics/tracing/configuring-tracing)
