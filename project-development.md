@@ -77,8 +77,9 @@
 - [Write changelog files in Keepchangelog style](https://keepachangelog.com/en)
 - [Set product/assemblies versions in Semantic versioning style](https://semver.org/)
 
-## Tips
-- Debug/Trace Network for Net app [How to: Configure Network Tracing](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/how-to-configure-network-tracing)
+## Debug
+- Debug/Trace Network for Net Core app [Debugging CoreFX on Windows](https://github.com/dotnet/corefx/blob/master/Documentation/debugging/windows-instructions.md#systemnet-namespaces)
+- Debug/Trace Network for Full Framework app [How to: Configure Network Tracing](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/how-to-configure-network-tracing)
 - **Debug/Trace WCF for Full Framework**
   - [Configuring Tracing](https://docs.microsoft.com/en-us/dotnet/framework/wcf/diagnostics/tracing/configuring-tracing)
   - [Tracing and Message Logging](https://docs.microsoft.com/en-us/dotnet/framework/wcf/samples/tracing-and-message-logging)
