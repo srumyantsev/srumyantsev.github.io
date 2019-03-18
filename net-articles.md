@@ -34,7 +34,8 @@
 ## Data structures
 - (Video) [Дмитрий Иванов — Многопоточные структуры данных в .NET: как это работает?](https://youtu.be/fQhz2iHmwV8)
 
-## Synchronization context
+## Synchronization context and Execution context
+- (Article) [ExecutionContext vs SynchronizationContext](https://devblogs.microsoft.com/pfxteam/executioncontext-vs-synchronizationcontext/)
 - (Article) [ASP.NET Core SynchronizationContext](https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html)
 - (Article) [Await, SynchronizationContext, and Console Apps](https://blogs.msdn.microsoft.com/pfxteam/2012/01/20/await-synchronizationcontext-and-console-apps/)
 
