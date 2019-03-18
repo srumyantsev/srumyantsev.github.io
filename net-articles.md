@@ -55,6 +55,7 @@
 
 # Algorithms
 - (Stackoverflow) [What does O(log n) mean exactly?](https://stackoverflow.com/a/2307314)
+- (Article) [What does the time complexity O(log n) actually mean?](https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf)
 
 # MsBuild
 - (Article) [Bundling .NET build tools in NuGet](https://natemcmaster.com/blog/2017/11/11/build-tools-in-nuget/)
