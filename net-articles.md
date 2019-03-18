@@ -7,6 +7,11 @@
 - (FAQ) [Selecting a Collection Class](https://docs.microsoft.com/en-us/dotnet/standard/collections/selecting-a-collection-class)
 - (FAQ) [Collections and Data Structures](https://docs.microsoft.com/en-us/dotnet/standard/collections/)
 
+## Graphs
+- (Article) [Graph Data Structures for Beginners](https://adrianmejia.com/blog/2018/05/14/data-structures-for-beginners-graphs-time-complexity-tutorial/)
+- (Article) [How to think in graphs: An illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
+  - (Перевод) [Иллюстративное введение в теорию графов и её применение](https://proglib.io/p/graph-theory/)
+
 ## Value type vs Reference type
 - (Article) [The truth about value types](https://blogs.msdn.microsoft.com/ericlippert/2010/09/30/the-truth-about-value-types/)
 
