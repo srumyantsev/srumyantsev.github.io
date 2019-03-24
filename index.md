@@ -5,6 +5,7 @@
 # Checklists and development
 - [Project marketing](project-marketing)
 - [Project development](project-development)
+- [Tips: Git, PowerShell, etc.](tips)
 - [CMS](cms)
 - [Vue.js](vuejs-articles)
 - [Git](git-articles)
