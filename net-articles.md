@@ -35,6 +35,7 @@
 - (Article) [Eliding async await](https://blog.stephencleary.com/2016/12/eliding-async-await.html)
 - (Article) [Async and Await. Stephen Cleary](https://blog.stephencleary.com/2012/02/async-and-await.html)
 - (Article) [Implicit Async Context ("AsyncLocal")](https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html)
+- (Article) [Task.Run vs Task.Factory.StartNew](https://devblogs.microsoft.com/pfxteam/task-run-vs-task-factory-startnew/)
 
 ## Data structures
 - (Video) [Дмитрий Иванов — Многопоточные структуры данных в .NET: как это работает?](https://youtu.be/fQhz2iHmwV8)
