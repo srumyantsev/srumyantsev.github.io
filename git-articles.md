@@ -16,7 +16,7 @@
 * (Video) [Advanced Git Tutorial](https://www.youtube.com/watch?v=0SJCYPsef54)
 
 # Useful code snippets
-**Git remove submodule**
+**Git remove submodule**  
 [How effectively delete a git submodule](https://gist.github.com/myusuf3/7f645819ded92bda6677)
 
 **Bash find latest commits authors (branch owner) to all branches**
