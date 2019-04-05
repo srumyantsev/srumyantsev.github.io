@@ -9,6 +9,8 @@
 - [CMS](cms)
 - [Vue.js](vuejs-articles)
 - [Git](git-articles)
+- [Patterns](patterns)
+- [Practices](practices)
 
 # Management
 - [Project management](project-management)
