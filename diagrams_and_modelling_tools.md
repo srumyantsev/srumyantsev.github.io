@@ -15,6 +15,8 @@ Useless for manual generation and small size diagrams/graphs, because requires s
 
 ## PlantUML
 [PlantUML](http://plantuml.com/)
+[PlantUML online editor](https://www.planttext.com/)
+[Tools](http://plantuml.com/en/running)
 
 ## Draw.io
 [Draw.io](https://www.draw.io/)
