@@ -21,6 +21,7 @@
 # Software (tools)
 - [General](tools-general)
 - [For software development](tools-development)
+- [Diagrams, graphs, uml, etc. tools](diagrams_and_modelling_tools)
 
 # Tips
 - [Github Markdown](https://guides.github.com/features/mastering-markdown/)
