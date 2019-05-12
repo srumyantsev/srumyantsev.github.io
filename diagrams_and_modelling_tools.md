@@ -1,5 +1,8 @@
 # Diagrams, graphs, uml, etc. tools
 
+## Tutorials
+[The Art of Crafting Architectural Diagrams](https://www.infoq.com/articles/crafting-architectural-diagrams)
+
 ## Graphviz and dot language
 [Graphviz - Graph Visualization Software](https://www.graphviz.org/)
 Useful for automated generation and middle/big size diagrams/graphs.
