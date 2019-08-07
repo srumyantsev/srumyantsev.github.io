@@ -1,5 +1,6 @@
 # Projects
-- [https://github.com/srumyantsev/baksht-calculations](https://github.com/srumyantsev/baksht-calculations) - Константин Бакшт. "Вкус жизни. Как достигать успеха, финансовой свободы и управлять своей судьбой"
+- [https://srumyantsev.github.io/cases-matrix-generator/](https://srumyantsev.github.io/cases-matrix-generator/) Создание комбинаций бизнес/тест кейсов. Repo: [https://github.com/srumyantsev/cases-matrix-generator/](https://github.com/srumyantsev/cases-matrix-generator/)
+- [https://srumyantsev.github.io/baksht-calculations](https://srumyantsev.github.io/baksht-calculations) - Константин Бакшт. "Вкус жизни. Как достигать успеха, финансовой свободы и управлять своей судьбой". Repo: [https://github.com/srumyantsev/baksht-calculations](https://github.com/srumyantsev/baksht-calculations)
 - [https://github.com/srumyantsev/fastfinances](https://github.com/srumyantsev/fastfinances) - FastFinances
 
 # Checklists and development
