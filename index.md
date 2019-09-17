@@ -1,4 +1,5 @@
 # Projects
+- [http://alllie.ru/json-xml-utils/](http://alllie.ru/json-xml-utils/) Simple tool to butify, encode, decode and etc. Json, Xml and other formats. Repo: [https://github.com/srumyantsev/json-xml-utils](https://github.com/srumyantsev/json-xml-utils)
 - [https://srumyantsev.github.io/cases-matrix-generator/](https://srumyantsev.github.io/cases-matrix-generator/) Создание комбинаций бизнес/тест кейсов. Repo: [https://github.com/srumyantsev/cases-matrix-generator/](https://github.com/srumyantsev/cases-matrix-generator/)
 - Draw.io libraries and SvgToDrawioLibConverter. Repo: [https://github.com/srumyantsev/drawio-libs](https://github.com/srumyantsev/drawio-libs)
 - [https://srumyantsev.github.io/baksht-calculations](https://srumyantsev.github.io/baksht-calculations) - Константин Бакшт. "Вкус жизни. Как достигать успеха, финансовой свободы и управлять своей судьбой". Repo: [https://github.com/srumyantsev/baksht-calculations](https://github.com/srumyantsev/baksht-calculations)
