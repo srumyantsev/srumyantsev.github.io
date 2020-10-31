@@ -8,6 +8,9 @@
 Useful for automated generation and middle/big size diagrams/graphs.
 Useless for manual generation and small size diagrams/graphs, because requires spend time to beautify result.
 
+## DGML
+[Directed Graph Markup Language](https://docs.microsoft.com/en-us/visualstudio/modeling/directed-graph-markup-language-dgml-reference?view=vs-2019)
+
 ### Links 
 * [UML Diagrams from Graphviz](http://www.markmorga.com/software/2012/08/10/uml-diagrams-from-graphviz.html)
 * [Node, Edge and Graph Attributes](https://www.graphviz.org/doc/info/attrs.html)
