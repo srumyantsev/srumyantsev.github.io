@@ -8,9 +8,6 @@
 Useful for automated generation and middle/big size diagrams/graphs.
 Useless for manual generation and small size diagrams/graphs, because requires spend time to beautify result.
 
-## DGML
-[Directed Graph Markup Language](https://docs.microsoft.com/en-us/visualstudio/modeling/directed-graph-markup-language-dgml-reference?view=vs-2019)
-
 ### Links 
 * [UML Diagrams from Graphviz](http://www.markmorga.com/software/2012/08/10/uml-diagrams-from-graphviz.html)
 * [Node, Edge and Graph Attributes](https://www.graphviz.org/doc/info/attrs.html)
@@ -19,6 +16,13 @@ Useless for manual generation and small size diagrams/graphs, because requires s
 * [GraphViz Pocket Reference. Examples](https://graphs.grevian.org/example)
 * [Drawing graphs with dot](https://www.graphviz.org/pdf/dotguide.pdf)
 
+## DGML
+[Directed Graph Markup Language](https://docs.microsoft.com/en-us/visualstudio/modeling/directed-graph-markup-language-dgml-reference?view=vs-2019)
+
+## GraphML
+* [GraphML](http://graphml.graphdrawing.org/index.html)
+* Can be exported from Resharper
+
 ## PlantUML
 [PlantUML](http://plantuml.com/)
 [PlantUML online editor](https://www.planttext.com/)
@@ -26,3 +30,6 @@ Useless for manual generation and small size diagrams/graphs, because requires s
 
 ## Draw.io
 [Draw.io](https://www.draw.io/)
+
+## Additional links
+[Tech radar. Diagrams as code](https://www.thoughtworks.com/radar/techniques?blipid=202010027)
